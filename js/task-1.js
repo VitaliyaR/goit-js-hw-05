@@ -8,7 +8,7 @@
 У консоль будуть виведені результати її викликів
 */
 
-const getUserNames = (users) => users.map(user => user.namel);
+const getUserNames = (users) => users.map(user => user.name);
 
 
     console.log(
